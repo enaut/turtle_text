@@ -1,4 +1,4 @@
-# Writing Letters with turtle.rs
+# Writing Letters with [turtle.rs](https://github.com/sunjay/turtle)
 
 This is a library that allows to write letters with the turtle module.
 
